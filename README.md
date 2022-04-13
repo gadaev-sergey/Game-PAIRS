@@ -16,6 +16,6 @@
 
 ## Превью
 
-![](http://img.sergey-gadaev.tmweb.ru/game-pairs.png)
+![](http://img.sergey-gadaev.tmweb.ru/game-pairs-2page.png)
 
 ![](https://komarev.com/ghpvc/?username=gadaev-sergey)
