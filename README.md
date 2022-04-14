@@ -10,7 +10,8 @@
 
 ## Запуск приложения
 
-Перейдите по [ссылке](http://game.sergey-gadaev.tmweb.ru/) на хостинг.
+Перейдите по [ссылке](http://game.sergey-gadaev.tmweb.ru/) на хостинг.<br>
+Перейдите по [ссылке](https://gadaev-sergey.github.io/Game-PAIRS/) на GitHub Pages.
 
 Или, необходимо склонировать все содержимое репозитория `git clone <this repo>` или скачать ZIP архив репозитория. Затем открыть файл `index.html`, находящийся в корне проекта.
 
